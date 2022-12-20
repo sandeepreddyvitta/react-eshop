@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-eshop.git/static/css/main.f68438aa.css",
-    "main.js": "/react-eshop.git/static/js/main.e92f98ba.js",
-    "static/js/787.3bed6155.chunk.js": "/react-eshop.git/static/js/787.3bed6155.chunk.js",
-    "index.html": "/react-eshop.git/index.html",
-    "main.f68438aa.css.map": "/react-eshop.git/static/css/main.f68438aa.css.map",
-    "main.e92f98ba.js.map": "/react-eshop.git/static/js/main.e92f98ba.js.map",
-    "787.3bed6155.chunk.js.map": "/react-eshop.git/static/js/787.3bed6155.chunk.js.map"
+    "main.css": "/react-eshop/static/css/main.f68438aa.css",
+    "main.js": "/react-eshop/static/js/main.2b96c3d6.js",
+    "static/js/787.3bed6155.chunk.js": "/react-eshop/static/js/787.3bed6155.chunk.js",
+    "index.html": "/react-eshop/index.html",
+    "main.f68438aa.css.map": "/react-eshop/static/css/main.f68438aa.css.map",
+    "main.2b96c3d6.js.map": "/react-eshop/static/js/main.2b96c3d6.js.map",
+    "787.3bed6155.chunk.js.map": "/react-eshop/static/js/787.3bed6155.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f68438aa.css",
-    "static/js/main.e92f98ba.js"
+    "static/js/main.2b96c3d6.js"
   ]
 }
